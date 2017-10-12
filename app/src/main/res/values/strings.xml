@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="dialog">对话框</string>
+    <string name="d1">基本对话框</string>
+    <string name="d2">列表项对话框</string>
+    <string name="d3">单选列表对话框</string>
+    <string name="d4">复杂选项列表对话框</string>
+    <string name="d5">复杂布局对话框</string>
+    <string name="username">用户名</string>
+    <string name="passwd">密码</string>
+</resources>
